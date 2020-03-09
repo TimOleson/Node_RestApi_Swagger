@@ -1,0 +1,22 @@
+{
+  "name": "football-stats-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Tim Oleson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "latest": "^0.2.0",
+    "morgan": "^1.9.1",
+    "npm": "^6.14.2",
+    "swagger": "^0.7.5",
+    "swagger-jsdoc": "^3.5.0",
+    "swagger-ui-express": "^4.1.3"
+  }
+}
